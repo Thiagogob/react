@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "Top 10 Python Tips and Tricks",
+      "views": 2500
+    },
+    {
+      "id": "3",
+      "title": "The Future of AI",
+      "views": 3200
+    },
+    {
+      "title": "How to Cook the Perfect Steak",
+      "views": "8000",
+      "id": "4"
+    },
+    {
+      "id": "5",
+      "title": "Exploring the Amazon Rainforest",
+      "views": 3000
+    },
+    {
+      "id": "8dc3",
+      "title": "Computer Science",
+      "views": "9893"
+    }
+  ]
+}
